@@ -34,3 +34,17 @@ Welcome to my technical portfolio. This repository contains a collection of labs
 ## 📈 Certificates & Learning Path
 - **Cisco CCNA** (In Progress)
 - **Cisco CyberOps Associate** (In Progress)
+## 🛡️ Data Integrity & Cryptographic Hashing 
+*Cisco CyberOps Lab*
+
+| Category | Details |
+| :--- | :--- |
+| **Objective** | Verify file integrity and demonstrate the Avalanche Effect using MD5/SHA-256. |
+| **Tools** | Linux CLI, OpenSSL, SHA-256 Checksum, Nano. |
+| **Key Skill** | Cryptographic auditing & identification of unauthorized data modification. |
+
+### 📂 Quick Links
+* **[Completed Lab Report (PDF)](./Hashing-Lab/Data-Integrity-Hashing-Lab.pdf)** — *Verified answers in **Bold Green**.*
+* **[Project Evidence](./Hashing-Lab/)** — *Screenshots of terminal output and hash comparisons.*
+
+---
