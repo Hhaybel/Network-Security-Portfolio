@@ -17,7 +17,7 @@ Welcome to my technical portfolio. This repository contains a collection of labs
 
 ### 🐧 [Linux & CyberOps](./CyberOps)
 *Hands-on labs performed in the CyberOps Workstation VM.*
-- **Data Integrity:** [Hashing Things Out (Lab 21.1.6)](./CyberOps/Hashing-Lab.md)
+- **Data Integrity:** [Hashing-lab
 - **Log Analysis:** Investigating security alerts.
 - **Traffic Analysis:** Packet capture and Wireshark analysis.
 
