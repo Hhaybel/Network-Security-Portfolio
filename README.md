@@ -63,7 +63,7 @@ This project explores the fundamental differences between the Transmission Contr
 - Analyze protocol behavior using Wireshark filters and packet inspection.
 
 ## Repository Structure
-- `/analysis_report/`: Contains the final PDF report and high-resolution screenshots.
+- https://github.com/Hhaybel/Network-Security-Portfolio/blob/main/TCP-UDP-Protocol-Analysis/Documentation_and_Reports/TCP%26UDP_Packet_Analysis_Report%20refined.pdf`: Contains the final PDF report and high-resolution screenshots.
 - `/captures/`: Includes raw `.pcapng` files for verification and further study.
 
 ---
