@@ -42,6 +42,27 @@ packet captures.
 
 - 📁 [Project Folder](https://github.com/Hhaybel/Network-Security-Portfolio/tree/main/TCP-UDP-Protocol-Analysis/Documentation_and_Reports)
 - 📄 [Technical Report (PDF)](https://github.com/Hhaybel/Network-Security-Portfolio/blob/main/TCP-UDP-Protocol-Analysis/Documentation_and_Reports/TCP%26UDP_Packet_Analysis_Report%20refined.pdf)
+- ### 🔐 Security Incident Investigation (Incident Response)
+
+This project documents a simulated **network security incident investigation** involving unauthorized command execution, privilege escalation, and data exfiltration.
+
+The investigation focused on applying **incident response workflows**, **5-tuple traffic analysis**, and **packet inspection** to reconstruct attacker activity and determine impact.
+
+**Key focus areas:**
+- Network Security Monitoring (NSM)
+- Incident detection and triage
+- 5-tuple analysis
+- Packet inspection and protocol analysis
+- Log correlation and evidence handling
+
+📁 Project folder:  
+https://github.com/Hhaybel/Network-Security-Portfolio/tree/main/Incident%20Response
+
+📄 Full investigation report (PDF):  
+https://github.com/Hhaybel/Network-Security-Portfolio/blob/main/Incident%20Response/Report/Abel%20Kolawole%20security%20incident%20report%20.pdf
+
+🖼 Supporting images and analysis artifacts:  
+https://github.com/Hhaybel/Network-Security-Portfolio/tree/main/Incident%20Response/Images
 
 **Highlights:**
 - Captured and analyzed FTP (TCP) and TFTP (UDP) traffic using Wireshark
